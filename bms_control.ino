@@ -1,11 +1,3 @@
-/*
- * HyTech 2018 BMS Basic Monitor
- * Init 2017-12-10
- * Configured for Teensy
- * Based off of DC1894.ino from Linear
- * Modified to support Teensy, and work with 4 daisychained ICs
- */
-
 /*!
 DC1894B
 LTC6804-1: Battery stack monitor
